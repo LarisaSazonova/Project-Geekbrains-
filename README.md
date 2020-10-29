@@ -1,2 +1,0 @@
-# Project-Geekbrains-
-first project
